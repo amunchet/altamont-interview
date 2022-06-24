@@ -31,4 +31,6 @@ There is no time limit.  Take your time and understand the technologies in use. 
 
 Thank you for your interest in Altamont Company.  Please remember this project is not meant as a bar for entry - the purpose is for you to understand the technologies the position uses and facilitate further discussion.
 
+Any questions, please contact Chester Enright at cenright AT altamontco DOT com.
+
 Thank you!
